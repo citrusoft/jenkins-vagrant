@@ -1,8 +1,8 @@
 # jenkins-vagrant
 A jenkins project provisioning linux-node, clone, build, apt-get and test nginx
 
-##Preconditions
-* Download and add the box image to local repo...
+## Preconditions
+1. Download and add the box image to local repo...
  * vagrant box add bento/ubuntu-16.04 --provider=virtualbox
  * vagrant init bento/ubuntu-16.04
 
